@@ -3,7 +3,7 @@
 ![Noise Click](http://cdn.mikroe.com/img/click/noise/noise-click.png)
 
 ---
-[Product Page](http://www.mikroe.com/click/noise/)
+[Product Page](http://www.mikroe.com/click/noise)
 
 [Manual Page](http://docs.mikroe.com/Noise_click)
 
